@@ -1,6 +1,6 @@
 ## Bank ATM Management System (Java Swing)
 
-A desktop-based Bank ATM Management System built using Java Swing and MySQL. Includes login, deposit, withdraw, mini statement, fast cash, and balance enquiry.
+An application-based Bank ATM Management System built using Java Swing and MySQL. Includes login, deposit, withdraw, mini statement, fast cash, and balance enquiry.
 
 
 ### Features
