@@ -28,7 +28,19 @@ A desktop-based Bank ATM Management System built using Java Swing and MySQL. Inc
 - lib/ → External libraries (MySQL Connector, JCalendar)
 - database/ → SQL database file
 - src/img/ → Images used in project
-- nbproject/nbfiles(may be ignord)
+- nbproject/ → May be ignored 
+
+### How to Run the Project
+1. Import project into Apache NetBeans
+2. Add JAR files from lib folder to Libraries
+3. Create MySQL database
+4. Import SQL file from database folder
+5. Run Login.java file
+
+---
+
+### Author
+Soumya Chakraborty
   ---
 
 ### How to Run the Project
