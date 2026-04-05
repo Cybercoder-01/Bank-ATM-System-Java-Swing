@@ -39,10 +39,6 @@ An application-based Bank ATM Management System built using Java Swing and MySQL
 
 ---
 
-### Author
-Soumya Chakraborty
-  ---
-
 ### How to Run the Project
 1. Import project into Apache NetBeans
 2. Add JAR files from lib folder to Libraries
@@ -54,3 +50,4 @@ Soumya Chakraborty
 
 ### Author
 Soumya Chakraborty
+---
